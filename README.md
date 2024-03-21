@@ -29,6 +29,10 @@ Everything else in this script has been coded by myself.
 
 This script will allow users to more easily playtest the upcoming revision to D&D 5E.
 
+**Script Patch Notes:**
+- **2024-03-21:**
+  - Partial overhaul to reduce RaceList objects down to the base Species and to reduce the number of RacialVariant objects down to the number of Species types. In other words, V3 of the script is now formatted the same way as the list above (except for the Dragonborn), and V4 takes up two thirds the space while still accomplishing what V3 did. As a result, V4 has replaced V3.
+
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
 
