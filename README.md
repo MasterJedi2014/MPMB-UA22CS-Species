@@ -32,6 +32,6 @@ This script will allow users to more easily playtest the upcoming revision to D&
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
 
-**Script Content Source:** https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf
+**Script Content Source:** https://media.dndbeyond.com/compendium-images/one-dnd/cleric-and-revised-species/tr8jAj5cc33uQixi/UA-2022-ClericandSpecies.pdf
 
 For instructions on how to add this script to the sheet, please see this page: https://www.flapkan.com/how-to/add-more-content
